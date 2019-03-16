@@ -1,5 +1,7 @@
 env:
   dev
+label:
+  release
 spring:
   application:
     name: order
